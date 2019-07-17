@@ -6,14 +6,14 @@ using namespace std;
 
 int main(){
 	int r;
-	cout << "Informe o valor do raio do seu círculo!" << endl;
+	cout << "Informe o valor do raio do seu CÍRCULOOOO! HAHAHAHA! Maçã." << endl;
 	cin >> r;
 	cout << "Seu raio é: " << r << endl;
 
 	double p = 2 * PI * r;
 	double s = PI * r * r;
 	
-	cout << "O círculo de raio r" <<  endl;
+	cout << "O círculo de raio r Banana." <<  endl;
 	cout << "Tem um perímetro " << p << " e uma área " << s << endl;
 	
 	return 0;
