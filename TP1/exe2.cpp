@@ -6,6 +6,8 @@ using namespace std;
 int main(){
 
 	double x;
+
+	//oi
 	
 	cout << "Informe o valor de X: " << endl;
 
