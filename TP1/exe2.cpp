@@ -8,20 +8,14 @@ int main(){
 	double x;
 
 	//oi
-	
-	cout << "Informe o valor de X: " << endl;
-
+	 << "Informe o valor de X: " << endl;
 	cin >> x;
 	
-	cout << "X é: " << x <<endl;
+	cout << "X é: " << x <<endl; y;
 
-	double y;
-
-	cout << "Y é: " << y <<endl;
-
-	y = 3.14;
-
-	cout << "Y é: " << y <<endl;
+	cout  "é: " << y <<endl;
+	y = 3.1
+	c "Y é: " << y <<endl;
 	
 	
 	return 0;
